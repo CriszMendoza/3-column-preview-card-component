@@ -23,9 +23,9 @@ body{
 	height: 500;
 	display: flex;
 	position: absolute;
-	top: 50%;
+	top: 48%;
 	left: 50%;
-	transform: translateX(-50%) translateY(49.5%);
+	transform: translateX(-50%) translateY(50%);
 	
 }
 
