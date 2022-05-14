@@ -25,7 +25,7 @@ body{
 	position: absolute;
 	top: 50%;
 	left: 50%;
-	transform: translateX(-50%) translateY(-50%);
+	transform: translateX(-50%) translateY(-48%);
 	
 }
 
@@ -99,7 +99,7 @@ body{
 	color: var(--dark_cyan);
 }
 
-.card-1 .card-btn {
+.card-3 .card-btn {
 	color: var(--very_dark_cyan);
 }
 
