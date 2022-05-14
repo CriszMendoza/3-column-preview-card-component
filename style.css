@@ -34,10 +34,6 @@ body{
 	border-radius: 8px;
 }
 
-.card-2, .card-3{
-	margin-left: -8px;
-}
-
 .card-1 {
 	background-color: var(--bright_orange);
 }
@@ -122,10 +118,5 @@ body{
 		height: auto;
 		transform: translateX(0) translateY(0);
 	
-	}
-	.card-2,
-	.card-3 {
-		margin-left: 0;
-		margin-top: -8px;
 	}
 }
